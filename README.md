@@ -29,8 +29,8 @@ Atualmente, estou focado em melhorar minhas habilidades em:
 
 Aqui estão alguns projetos em que estou trabalhando:
 
-- [**Programming Study Collection**](https://github.com/Kaique-GM/programming-study-collection): Repositório que contém uma coleção de projetos e exercícios desenvolvidos durante meu aprendizado em diferentes linguagens de programação.
-- [**Chess System Java**](https://github.com/Kaique-GM/Chess-system-java): Projeto de um sistema de xadrez desenvolvido durante o curso de Java do básico ao avançado.
+- [![Programming Study Collection](https://img.shields.io/badge/Programming_Study_Collection-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaique-GM/programming-study-collection)
+- [![Chess System Java](https://img.shields.io/badge/Chess_System_Java-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaique-GM/Chess-system-java)
 
 ## 📈 Estatísticas
 
