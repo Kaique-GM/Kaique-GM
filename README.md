@@ -38,8 +38,7 @@ Aqui estão alguns projetos em que estou trabalhando:
 ## 📫 Contatos
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kaique-GM)
-- [![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-
+- [![E-mail](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=EA4335)](mailto:seu-email@gmail.com)
 
 ## 🎯 Objetivos
 
