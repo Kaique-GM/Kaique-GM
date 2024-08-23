@@ -31,7 +31,7 @@ Aqui estão alguns projetos em que estou trabalhando:
 - [**Programming Study Collection**](https://github.com/Kaique-GM/programming-study-collection): Repositório que contém uma coleção de projetos e exercícios desenvolvidos durante meu aprendizado em diferentes linguagens de programação.
 - [**Chess System Java**](https://github.com/Kaique-GM/Chess-system-java): Projeto de um sistema de xadrez desenvolvido durante o curso de Java do básico ao avançado.
 
-## 📈 Estatísticas do GitHub
+## 📈 Estatísticas
 
 ![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kaique-GM&show_icons=true&theme=dracula)
 
