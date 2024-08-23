@@ -9,11 +9,12 @@ Meu foco principal está em **desenvolvimento backend**, especialmente utilizand
 - **Linguagens de Programação**:
   - Java (intermediário)
   - SQL (básico)
+- **Tecnologias e Ferramentas**:
   - HTML (básico)
-- **Ferramentas e Tecnologias**:
+  - CSS (básico)
+  - JavaScript (básico)
   - Git & GitHub
   - MySQL
-  - Desenvolvimento Web (básico)
 
 ## 📚 O que estou estudando
 
