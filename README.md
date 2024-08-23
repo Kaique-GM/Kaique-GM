@@ -35,10 +35,10 @@ Aqui estão alguns projetos em que estou trabalhando:
 
 ![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kaique-GM&show_icons=true&theme=dracula)
 
-## 📫 Como me encontrar
+## 📫 Contatos
 
-- **LinkedIn**: [Kaique-GM](https://www.linkedin.com/in/Kaique-GM)
-- **E-mail**: kaiquegmoficial@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/Kaique-GM)
+- [![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seu-email@gmail.com)
 
 
 ## 🎯 Objetivos
