@@ -25,12 +25,6 @@ Atualmente, estou focado em melhorar minhas habilidades em:
 - **Estrutura de Dados**: Iniciando a disciplina de estrutura de dados, onde estou aprendendo sobre algoritmos e estruturas essenciais.
 - **Desenvolvimento Web**: Explorando as bases de HTML, JavaScript e CSS através da disciplina de linguagens de programação.
 
-## 💼 Projetos
-
-Aqui estão alguns projetos em que estou trabalhando:
-
-- [![Programming Study Collection](https://img.shields.io/badge/Programming_Study_Collection-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaique-GM/programming-study-collection)
-- [![Chess System Java](https://img.shields.io/badge/Chess_System_Java-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaique-GM/Chess-system-java)
 
 ## 📈 Estatísticas
 
