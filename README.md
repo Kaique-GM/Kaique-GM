@@ -6,7 +6,7 @@ Meu foco principal está em **desenvolvimento backend**, especialmente utilizand
 
 ## 🛠️ Tecnologias nas quais tenho boa experiência
 
-![Java](https://img.shields.io/badge/Java-Intermedi%C3%A1rio-brightgreen) ![SQL](https://img.shields.io/badge/SQL-Intermedi%C3%A1rio-blue)
+![Java](https://img.shields.io/badge/Java-Intermedi%C3%A1rio-%23007396?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-B%C3%A1sico-%23003b57?style=flat&logo=mysql&logoColor=white)
 
 ## 📈 Estatísticas
 
