@@ -4,27 +4,9 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre ansioso para aprender e 
 
 Meu foco principal está em **desenvolvimento backend**, especialmente utilizando **Java**. No entanto, estou sempre explorando e me aprofundando em novas linguagens e tecnologias para expandir meu conhecimento.
 
-## 🚀 Habilidades
+## 🛠️ Tecnologias nas quais tenho boa experiência
 
-- **Linguagens de Programação**:
-  - Java (intermediário)
-  - SQL (básico)
-  - JavaScript (básico)
-  - CSS (básico)
-- **Tecnologias e Ferramentas**:
-  - HTML (básico)
-  - Git & GitHub
-  - MySQL
-
-## 📚 O que estou estudando
-
-Atualmente, estou focado em melhorar minhas habilidades em:
-
-- **Java**: Estou aprofundando meu conhecimento em conceitos avançados e padrões de projeto.
-- **MySQL**: Praticando consultas complexas e otimizando bases de dados.
-- **Estrutura de Dados**: Iniciando a disciplina de estrutura de dados, onde estou aprendendo sobre algoritmos e estruturas essenciais.
-- **Desenvolvimento Web**: Explorando as bases de HTML, JavaScript e CSS através da disciplina de linguagens de programação.
-
+![Java](https://img.shields.io/badge/Java-Intermedi%C3%A1rio-brightgreen) ![SQL](https://img.shields.io/badge/SQL-Intermedi%C3%A1rio-blue)
 
 ## 📈 Estatísticas
 
