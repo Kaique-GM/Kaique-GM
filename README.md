@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre ansioso para aprender e 
 Meu foco principal está em **desenvolvimento backend**, especialmente utilizando **Java**. No entanto, estou sempre explorando e me aprofundando em novas linguagens e tecnologias para expandir meu conhecimento.
 
 ## 🛠️ Tecnologias nas quais tenho boa experiência
- ![Java](https://img.shields.io/badge/-Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-B%C3%A1sico-%23003b57?style=flat&logo=mysql&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-B%C3%A1sico-%23003b57?style=flat&logo=mysql&logoColor=white)
 
 ## 📈 Estatísticas
 
