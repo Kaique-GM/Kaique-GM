@@ -14,7 +14,7 @@ Meu foco principal está em **desenvolvimento backend**, especialmente utilizand
 
 ![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kaique-GM&show_icons=true&theme=dracula)
 
-## 📫 Contatos
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kaique-GM) [![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquegmoficial@gmail.com)
 
