@@ -4,8 +4,6 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre ansioso para aprender e 
 
 Meu foco principal está em **desenvolvimento backend**, especialmente utilizando **Java**. No entanto, estou sempre explorando e me aprofundando em novas linguagens e tecnologias para expandir meu conhecimento.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kaique-GM)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquegmoficial@gmail.com)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tecnologias nas quais tenho boa experiência
@@ -32,6 +30,13 @@ Meu foco principal está em **desenvolvimento backend**, especialmente utilizand
   <img src="https://github-readme-stats.vercel.app/api?username=Kaique-GM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaique-GM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kaique-GM)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquegmoficial@gmail.com)
 
 
 
