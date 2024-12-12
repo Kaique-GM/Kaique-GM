@@ -1,6 +1,6 @@
 # Olá! Eu sou Kaique 👋
 
-Sou um desenvolvedor apaixonado por tecnologia e sempre ansioso para aprender e crescer. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Facens (Faculdade de Engenharia de Sorocaba)**, onde estou no terceiro semestre. 
+Sou um desenvolvedor apaixonado por tecnologia e sempre ansioso para aprender e crescer. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Facens (Faculdade de Engenharia de Sorocaba)**, onde estou no quarto semestre. 
 
 Meu foco principal está em **desenvolvimento backend**, especialmente utilizando **Java**. No entanto, estou sempre explorando e me aprofundando em novas linguagens e tecnologias para expandir meu conhecimento.
 
