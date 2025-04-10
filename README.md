@@ -2,12 +2,23 @@
 
 <div align="center">
   
-# 🌟 Seja bem-vindo(a)! Eu sou o Kaique 💻🚀
+#  🌟 Seja bem-vindo(a)!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Eu sou o Kaique 💻🚀
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
+<div align="center">
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas na Facens (4º semestre)** <br>
-🌐 **Apaixonado por tecnologia e em constante evolução** <br>
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" />  **Apaixonado por tecnologia e em constante evolução** <br>
 🧠 **Desafios são oportunidades para crescer!** <br>
 
+</div>
+
+<img alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+
+</div>
+
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=Kaique-GM&show_icons=true&include_all_commits=true&hide_title=false&hide_rank=false&theme=default&bg_color=0d1117&title_color=0099ff&text_color=c9d1d9&icon_color=0099ff&hide_border=false" height="185" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaique-GM&layout=compact&langs_count=5&theme=default&bg_color=0d1117&title_color=0099ff&text_color=c9d1d9&icon_color=0099ff&hide_border=false" height="185" />
 
