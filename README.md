@@ -1,45 +1,50 @@
-# Olá! Eu sou Kaique 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F51FF&height=120&section=header&text=&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35"/>
 
-Sou um desenvolvedor apaixonado por tecnologia e sempre ansioso para aprender e crescer. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Facens (Faculdade de Engenharia de Sorocaba)**, onde estou no 4º semestre. 
+<div align="center">
+  
+# 🌟 Seja bem-vindo(a)! Eu sou o Kaique 💻🚀
 
-Meu foco principal está em **desenvolvimento backend**, especialmente utilizando **Java**. No entanto, estou sempre explorando e me aprofundando em novas linguagens e tecnologias para expandir meu conhecimento.
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas na Facens (4º semestre)** <br>
+🌐 **Apaixonado por tecnologia e em constante evolução** <br>
+🧠 **Desafios são oportunidades para crescer!** <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kaique-GM)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquegmoficial@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=Kaique-GM&show_icons=true&include_all_commits=true&hide_title=false&hide_rank=false&theme=default&bg_color=0d1117&title_color=0099ff&text_color=c9d1d9&icon_color=0099ff&hide_border=false" height="185" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaique-GM&layout=compact&langs_count=5&theme=default&bg_color=0d1117&title_color=0099ff&text_color=c9d1d9&icon_color=0099ff&hide_border=false" height="185" />
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧠💻 Atualmente, estou me aperfeiçoando nas seguintes linguagens:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-%23E44D26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
-
-## ⏰ Tecnologias exploradas e aplicadas em projetos recentes:
-
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black) 
+![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-2196F3?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring-4CAF50?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-C3002F?style=for-the-badge&logo=angular&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) 
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-FFC107?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
+![Maven](https://img.shields.io/badge/Maven-B7172A?style=for-the-badge&logo=apache-maven&logoColor=white) 
 ![H2 Database](https://img.shields.io/badge/H2-003545?style=for-the-badge&logo=h2&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-  <div align="center">
-    
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaique-GM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaique-GM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="175" alt="languages graph"  />
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kaique-GM}/count.svg" /></p> 
+  <br>
 </div>
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kaique-GM)
+[![E-mail](https://img.shields.io/badge/Gmail-2E2E2E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquegmoficial@gmail.com)
+
+
+</div>
+<!-- Parte inferior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F51FF&height=120&section=footer&text=&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=40"/>
 
 
 
