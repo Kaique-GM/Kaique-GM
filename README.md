@@ -7,7 +7,7 @@
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif"  height="190" width="190" />
 
 <br><br>
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas na Facens (4º semestre)** <br>
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas na Facens (5º semestre)** <br>
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Apaixonado por tecnologia e em constante evolução** <br>
 🧠 **Desafios são oportunidades para crescer!** <br>
 
