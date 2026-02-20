@@ -4,7 +4,7 @@
   
 #  🌟 Seja bem-vindo(a)!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Eu sou o Kaique 💻🚀
 
-<img align="right" alt="GIF" src="/Images/pixel.gif" width="130" />
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif"  height="190" width="190" />
 
 <br><br>
 🎓 **Graduado em Análise e Desenvolvimento de Sistemas pela Facens** <br>
@@ -18,12 +18,32 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Kaique-GM&show_icons=true&include_all_commits=true&hide_title=false&hide_rank=false&theme=default&bg_color=0d1117&title_color=0099ff&text_color=c9d1d9&icon_color=0099ff&hide_border=false" height="185" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaique-GM&layout=compact&langs_count=5&theme=default&bg_color=0d1117&title_color=0099ff&text_color=c9d1d9&icon_color=0099ff&hide_border=false" height="185" />
+<div align="center">  
+  <img
+    height="165"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Kaique-GM&show_icons=true&theme=default&bg_color=0d1117&title_color=0099ff&text_color=c9d1d9&icon_color=0099ff&hide_border=false"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Kaique-GM&theme=default&bg_color=0d1117&title_color=0099ff&text_color=c9d1d9&icon_color=0099ff&hide_border=false"
+    alt="GitHub Streak"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kaique-GM&layout=compact&theme=default&bg_color=0d1117&title_color=0099ff&text_color=c9d1d9&icon_color=0099ff&&hide_border=false&langs_count=10"
+    alt="Top Languages"
+  />
+</div>
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,7 +61,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
+<img align="center" alt="GIF" src="/Images/pixel.gif" width="90" />
 
 <!-- Contador de Visitantes 
 <div align="center">
