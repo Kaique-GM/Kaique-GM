@@ -4,8 +4,8 @@
   
 #  🌟 Seja bem-vindo(a)!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Eu sou o Kaique 💻🚀
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif"  height="190" width="190" />
-
+<!-- <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif"  height="190" width="190" /> -->
+<img align="right" alt="PC GIF" src="/Images/pixel.gif"  width="130" />
 <br><br>
 🎓 **Graduado em Análise e Desenvolvimento de Sistemas pela Facens** <br>
 <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Apaixonado por tecnologia e em constante evolução** <br>
