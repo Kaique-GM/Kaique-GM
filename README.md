@@ -5,6 +5,7 @@
 #  🌟 Seja bem-vindo(a)!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Eu sou o Kaique 💻🚀
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif"  height="190" width="190" />
+<img align="left" alt="GIF" src="/Images/pixel.gif" width="120" />
 
 <br><br>
 🎓 **Graduado em Análise e Desenvolvimento de Sistemas pela Facens** <br>
@@ -61,8 +62,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img align="center" alt="GIF" src="/Images/pixel.gif" width="90" />
-
 <!-- Contador de Visitantes 
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
@@ -72,7 +71,6 @@
 
 
 </div>
-<!-- Parte inferior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F51FF&height=120&section=footer&text=&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=40"/>
 
 
